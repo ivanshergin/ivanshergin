@@ -19,6 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" title="Spark" **alt="Spark" width="80" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch" **alt="torch" width="40" height="40"/>
+    <img src="https://logotyp.us/file/databricks.svg" title="databricks" **alt="databricks" width="40" height="40"/>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="ES" alt="ES" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongo" alt="mongo" width="40" height="40"/>
@@ -33,7 +34,7 @@
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm " width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
     <img src="https://res.cloudinary.com/apideck/image/upload/v1615737977/icons/google-colab.png" title="google-colab" **alt="google-colab" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
     <br>
