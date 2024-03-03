@@ -45,7 +45,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/768px-TeXShop_icon.png" title="TeXShop" **alt="TeXShop" width="40" height="40"/>
 </div>
 
-## 🌐 Socials"
+## 🌐 Socials:
 
 <p align="left">
     <a href="https://www.github.com/ivanshergin" target="_blank" rel="noreferrer">
