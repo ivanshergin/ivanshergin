@@ -7,7 +7,7 @@
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [i.a.shergin@gmail.com](mailto:i.a.shergin@gmail.com)
 * 🚀  I'm currently researching the field of human pose estimation
-* 🧠  I'm currently learning:  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch1" alt="torch1" width="40" height="40"/>
+* 🧠  I'm currently learning:  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch1" alt="torch1" width="40" height="40"/>
 
 
 ## 🛠️Languages, Tools and Frameworks:
