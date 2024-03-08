@@ -7,7 +7,7 @@
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [i.a.shergin@gmail.com](mailto:i.a.shergin@gmail.com)
 * 🚀  I'm currently researching the field of human pose estimation
-* 🧠  I'm currently learning: Tensorflow, Pytorch, FastApi, TypeScript
+* 🧠  I'm currently learning:  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch1" alt="torch1" width="40" height="40"/>
 
 
 ## 🛠️Languages, Tools and Frameworks:
@@ -18,7 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png" title="Hadoop" **alt="Hadoop" width="120" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" title="Spark" **alt="Spark" width="80" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch" **alt="torch" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch" alt="torch" width="40" height="40"/>
     <img src="https://logotyp.us/file/databricks.svg" title="databricks" **alt="databricks" width="40" height="40"/>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="ES" alt="ES" width="40" height="40"/>
