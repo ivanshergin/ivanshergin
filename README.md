@@ -9,7 +9,7 @@
 * 🚀  I'm currently researching the field of human pose estimation
 
 
-## 🛠️Languages, Tools and Frameworks:
+## 🛠️ Languages, Tools and Frameworks:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
