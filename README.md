@@ -27,10 +27,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch1" alt="torch1" width="40" height="40"/>
     <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png" title="Hadoop" **alt="Hadoop" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png" title="Hadoop" **alt="Hadoop" width="100" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" title="Spark" **alt="Spark" width="80" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" **alt="Airflow" width="80" height="40"/>
-    <img src="https://media.mobidev.biz/2023/08/ml-flow-image-kopiya.png" title="Mlflow" **alt="Mlflow" width="40" height="40"/>
+    <img src="https://media.mobidev.biz/2023/08/ml-flow-image-kopiya.png" title="Mlflow" **alt="Mlflow" width="100" height="40"/>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="ES" alt="ES" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongo" alt="mongo" width="40" height="40"/>
