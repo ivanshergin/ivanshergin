@@ -1,8 +1,4 @@
 # 😜 Hello, I'm Ivan Shergin!
-<p  align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
-</p>
-
 # ⚡ About me:
 
 * 🌍  I'm based in Moscow, Russia
@@ -74,7 +70,9 @@
     </a>
 </p>
 
-#
+<p  align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
+</p>
 <!--
 **ivanshergin/ivanshergin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
